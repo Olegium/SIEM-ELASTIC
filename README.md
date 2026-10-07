@@ -1,4 +1,4 @@
-# SIEM-ELASTIC
+# SIEM-ELASTIC настройка
 
 1) скачиваем elatic and kibana
 2) запуск и проверка
@@ -11,4 +11,12 @@
 
 отправляем файл через search
 
-<img width="2550" height="840" alt="image" src="https://github.com/user-attachments/assets/032b3187-3847-42b4-aefd-efbab379193e" />
+загружаем файл в elastic через integration upload file
+
+<img width="1898" height="590" alt="image" src="https://github.com/user-attachments/assets/3d381aa3-345c-4aa8-b4d9-bf6c658daa9c" />
+
+ЗАГРУЗИЛИ ДАННЫЕ 
+
+<img width="2574" height="1276" alt="image" src="https://github.com/user-attachments/assets/c297f736-5c69-4142-9293-b71fa4c403f0" />
+
+
